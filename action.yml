@@ -29,5 +29,4 @@ outputs:
   chromedriver-path:
     description: 'The installed ChromeDriver path.'
 runs:
-  using: 'node20'
   main: 'index.js'
