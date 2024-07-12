@@ -29,4 +29,5 @@ outputs:
   chromedriver-path:
     description: 'The installed ChromeDriver path.'
 runs:
+  using: "composite"
   main: 'index.js'
