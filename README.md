@@ -4,6 +4,7 @@
 
 # setup-chrome
 
+
 This action sets-up Google Chrome/Chromium for GitHub Actions. This action supports the following features:
 
 - Install and setup the Google Chrome onto the runner.
